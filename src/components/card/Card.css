@@ -1,0 +1,6 @@
+.card:hover .heading {
+    @apply -translate-y-[250px]
+}
+.card:hover .content {
+    @apply -translate-y-80
+}
